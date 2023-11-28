@@ -1,11 +1,10 @@
 ---
 title: Home
-nav: index page1 page2
-toc: true
+toc: false
 ---
 
 **_Welcome!_**
-
+This website is about coding
 
 `Hello, world` in C
 ```c
