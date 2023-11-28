@@ -1,4 +1,8 @@
-### Mobius Code
+---
+title: Home
+nav: index page1 page2
+toc: true
+---
 
 **_Welcome!_**
 
