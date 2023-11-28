@@ -2,4 +2,4 @@ title: "Mobius Code"
 markdown: GFM
 highlighter: rouge
 
-remote_theme: jekyll-theme-chirpy
+remote_theme: chirpy
