@@ -4,6 +4,7 @@ title: Home
 ---
 
 **_Welcome!_**
+
 This website is about coding
 
 `Hello, world` in C
