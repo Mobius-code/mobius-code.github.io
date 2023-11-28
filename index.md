@@ -1,17 +1,10 @@
 ---
 title: Home
-nav: index page1 page2
-toc: true
+toc: false
 ---
-+-- sub-directory
-|   +-- index.md    (title: Suby the Sub)
-|   +-- page2.md    (title: Suby the Second)
-|   +-- three.md    (title: Suby the Third)
-+-- index.md        (title: Home)
-
 
 **_Welcome!_**
-
+This website is about coding
 
 `Hello, world` in C
 ```c
