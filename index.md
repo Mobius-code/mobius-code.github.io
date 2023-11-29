@@ -3,9 +3,10 @@ layout: page
 title: Home
 ---
 
-**_Welcome!_**
+**_We love UNIX, Linux, BSD!_**
 
-This website is about coding
+> "If it can't be coded in C, you don't need it."
+> Some old-school hippie UNIX programmer
 
 `Hello, world` in C
 ```c
