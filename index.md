@@ -95,7 +95,7 @@ encode/decode a binary file; BINTRANS(1)
 `bzcmp`
 compare compressed files; ZDIFF(1)
 
-`bzdiff`  
+`bzdiff`
 compare compressed files; ZDIFF(1)
 
 `bzegrep`
