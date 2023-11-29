@@ -43,19 +43,19 @@ namespace HelloWorld
 
 ### commonly used commands
 `cat`  
-_concatenate and print files_
+concatenate and print files
 
 `chmod`  
-_change file modes_
+change file modes
 
 `chown`  
-_change file owner and group_
+change file owner and group
 
 `chroot`  
-_change root directory_
+change root directory
 
 `cksum`  
-    _display file checksums and block counts_
+display file checksums and block counts
 
 `cp`  
-    _copy files_
+copy files_
