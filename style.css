@@ -1,7 +1,10 @@
 @media (prefers-color-scheme: dark) {
-  /* Dark theme styles go here */
-}
-
-@media (prefers-color-scheme: light) {
-  /* Light theme styles go here */
+  body {
+    color: #eee;
+    background: #121212;
+  }
+ 
+  a {
+    color: #809fff;
+  }
 }
