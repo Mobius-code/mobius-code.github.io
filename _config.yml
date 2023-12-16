@@ -1,4 +1,5 @@
 title: "Mobius Code"
 markdown: GFM
 highlighter: rouge
-remote_theme: abhinavs/moonwalk
+#remote_theme: abhinavs/moonwalk
+remote_theme: cotes2020/jekyll-theme-chirpy
