@@ -6,7 +6,7 @@ title: Home
 **_We love UNIX, Linux, BSD!_**
 
 > "If it can't be coded in C, you don't need it."
-> -Some old-school hippie UNIX programmer
+> -Some old-school UNIX programmer
 
 `Hello, world` in C
 ```c
