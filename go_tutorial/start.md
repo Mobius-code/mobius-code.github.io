@@ -13,14 +13,14 @@ If you are new to programming, start with the first lesson and proceed through e
 We will finish the tutorial by building a few real-world programs.
 
 Topics:
-1. Intro to Programming With Go
-2. Setting Up Your Environment
-3. Writing Your First Program
+1. [Intro to Programming With Go](intro.md)
+2. [Setting Up Your Environment](install.md)
+3. [Writing Your First Program](first_program.md)
 4. Program Structure and Syntax
 5. Debugging Your Code
-6. Keywords
-7. Data Types
-8. Variables
+6. [Keywords](keywords.md)
+7. [Data Types](data_types.md)
+8. [Variables](variables.md)
 9. Operators & Order of Operations
 10. Control Flow
 11. Introduction to Functions
