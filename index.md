@@ -5,7 +5,7 @@ title: Home
 
 **_We love UNIX, Linux, BSD!_**
 
-Please check out this Introduction to Programming With Go [Tutorial](https://mobius-code.github.io/go_tutorial/start.html) that I wrote!
+Please check out this Introduction to Programming With Go [Tutorial](/go_tutorial/start.html) that I wrote!
 
 > "If it can't be coded in C, you don't need it."
 > -Some old-school UNIX programmer
