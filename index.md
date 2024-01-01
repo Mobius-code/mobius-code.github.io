@@ -5,6 +5,8 @@ title: Home
 
 **_We love UNIX, Linux, BSD!_**
 
+Please check out this Introduction to Programming With Go [Tutorial](https://go_tutorial/start.md) that I wrote!
+
 > "If it can't be coded in C, you don't need it."
 > -Some old-school UNIX programmer
 
